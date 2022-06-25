@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@domik_017](https://t.me/domik_017)</code>
-<code>📫 [your-email](mailto:andrikdomik2002@gmail.com)</code>
+<code>📫 [andrikdomik2002@gmail.com](mailto:andrikdomik2002@gmail.com)</code>
